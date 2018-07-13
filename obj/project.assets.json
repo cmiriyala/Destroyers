@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chetu\\.nuget\\packages\\": {},
+    "C:\\Users\\cmiriyala\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chetu\\source\\repos\\Destroyers\\Destroyers\\Destroyers.csproj",
+      "projectUniqueName": "c:\\users\\cmiriyala\\source\\repos\\Destroyers\\Destroyers\\Destroyers.csproj",
       "projectName": "Destroyers",
-      "projectPath": "C:\\Users\\chetu\\source\\repos\\Destroyers\\Destroyers\\Destroyers.csproj",
-      "packagesPath": "C:\\Users\\chetu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chetu\\source\\repos\\Destroyers\\Destroyers\\obj\\",
+      "projectPath": "c:\\users\\cmiriyala\\source\\repos\\Destroyers\\Destroyers\\Destroyers.csproj",
+      "packagesPath": "C:\\Users\\cmiriyala\\.nuget\\packages\\",
+      "outputPath": "c:\\users\\cmiriyala\\source\\repos\\Destroyers\\Destroyers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\chetu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cmiriyala\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

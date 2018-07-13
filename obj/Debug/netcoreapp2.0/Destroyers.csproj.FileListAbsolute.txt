@@ -1,0 +1,4 @@
+c:\users\cmiriyala\source\repos\Destroyers\Destroyers\obj\Debug\netcoreapp2.0\Destroyers.csprojAssemblyReference.cache
+c:\users\cmiriyala\source\repos\Destroyers\Destroyers\obj\Debug\netcoreapp2.0\Destroyers.csproj.CoreCompileInputs.cache
+c:\users\cmiriyala\source\repos\Destroyers\Destroyers\obj\Debug\netcoreapp2.0\Destroyers.AssemblyInfoInputs.cache
+c:\users\cmiriyala\source\repos\Destroyers\Destroyers\obj\Debug\netcoreapp2.0\Destroyers.AssemblyInfo.cs
